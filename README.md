@@ -16,7 +16,7 @@ The information dissemination network visualization graphs for all events in the
 
 # Run
 With two arguments, first stands for dataset's name, the latter is the number of iterations 
-'''
+```
 python ICP-BGCN.py Twitter15 100
 python ICP-BGCN.py Twitter16 100
-'''
+```
